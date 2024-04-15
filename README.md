@@ -1,6 +1,6 @@
-# Python Unzip Tool
+# Zippie
 
-This Python script provides a command-line interface to extract files from a ZIP archive.
+Zippie provides a command-line interface to extract files from a ZIP archive.
 
 ## Requirements
 
