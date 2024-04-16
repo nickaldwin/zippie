@@ -3,9 +3,9 @@
 Zippie provides a command-line interface to extract files from a ZIP archive.
 
 ## Requirements
+- - Python 3.x
+- `zipfile` module (built-in with Python) if not try to install `pip install zipfile36` 
 
-- Python 3.x
-- `zipfile` module (built-in with Python)
 
 ## Installation
 
